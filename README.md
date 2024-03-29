@@ -1,7 +1,8 @@
-# Fullstack Instagram Clone Tutorial
+# Instagram Clone
 
-### Built With React, Firebase && Chakra UI
+## Description
 
-# [Tutorial](https://youtu.be/bQtAg7AFFrY)
-
-![Screenshot of App](https://i.ibb.co/PjkYLCk/Group-34.png)
+### currently this web app has 3 routes:
+* /
+* /:username
+* auth
